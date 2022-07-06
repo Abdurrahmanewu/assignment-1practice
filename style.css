@@ -96,3 +96,26 @@ hr {
     text-align: left;
     margin: left 0;
 }
+
+.footer-tag {
+    color: white;
+    background: black;
+    margin-bottom: 0;
+    height: 200px;
+    padding-top: 60px;
+    text-align: center;
+}
+
+
+
+.footer-tag h2 {
+    color: rgb(186, 186, 186);
+    padding-bottom: 20px;
+    font-size: 50px;
+    color: red;
+}
+
+.footer-tag p {
+    font-size: 30px;
+
+}
