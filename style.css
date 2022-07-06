@@ -46,3 +46,22 @@ body html {
 .donate-p-tags {
     font-size: 30px;
 }
+
+.donate-today-text {
+    font-weight: bold;
+    position: absolute;
+    text-align: center;
+    width: 80%;
+    padding: 10px;
+}
+
+.donate-today-h-tags {
+    color: black;
+    font-size: 50px;
+
+}
+
+.donate-today-p-tags{
+    color: gray;
+    font-size: 20px;
+}
