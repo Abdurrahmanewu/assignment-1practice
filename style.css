@@ -119,3 +119,38 @@ hr {
     font-size: 30px;
 
 }
+
+.donation-planes-item-blue {
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+}
+
+.donation-planes-item-red {
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+
+}
+
+.donation-planes-item-yellow {
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-right: 20px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 100px;
+
+}
