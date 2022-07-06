@@ -127,6 +127,7 @@ hr {
     justify-content: center;
 }
 
+
 .flexible-container {
 
     width: 60%;
@@ -176,10 +177,12 @@ hr {
     margin: 20px 0;
     padding-top: 50px;
     text-transform: capitalize;
+    font-size: 40px;
 }
 
 .updates p {
     padding: 20px 0;
+    font-size: 25px;
 }
 
 .email {
